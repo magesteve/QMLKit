@@ -9,6 +9,6 @@
 // MARK: Structures
 
 /// Quiz Markup Language
-struct QMLKit {
+public struct QMLKit {
     static let version = 1
 }
