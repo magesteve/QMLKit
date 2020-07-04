@@ -6,7 +6,7 @@ final class QMLKitTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(QMLKit().text, "Hello, World!")
+        XCTAssertEqual(QMLKit.version, 1, "Version expected")
     }
 
     static var allTests = [
