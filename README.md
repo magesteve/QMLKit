@@ -1,7 +1,7 @@
 # QMLKit
 
 Quiz Markup Language Kit.
-Cross Platform Swift Package for creating common tests and quizes.
+Cross Platform Swift Package for creating common tests and quizzes.
 
 Revision: 1
 Version: 0.0.1
