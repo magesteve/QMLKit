@@ -1,3 +1,11 @@
 # QMLKit
 
-A description of this package.
+Quiz Markup Language Kit.
+Cross Platform Swift Package for creating common tests and quizes.
+
+Revision: 1
+Version: 0.0.1
+
+To Clone: % git clone https://github.com/magesteve/QMLKit
+
+
